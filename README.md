@@ -15,7 +15,11 @@ tar -xf document_parses.tar.gz
 # which creates a folder named document_parses
 ```
 `parse.py` for extracting texts from the original documents.
+
 `tokenizer_nltk.py` for tokenizing.
+
 `word2vec_train.py` for training the word representations.
+
 `visualize_tSNE.py` for visualizing the word representations.
+
 `co-occurence.py` for calculating the co-occurence probability.
